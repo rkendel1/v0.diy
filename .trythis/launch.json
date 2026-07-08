@@ -1,0 +1,20 @@
+{
+  "badge": {
+    "markdown": "[![Run with TryThisSoftware](https://trythissoftware.com/badge/rkendel1/v0.diy.svg)](https://trythissoftware.com/launch/rkendel1/v0.diy)",
+    "url": "https://trythissoftware.com/badge/rkendel1/v0.diy.svg"
+  },
+  "environment": {
+    "NODE_ENV": "production"
+  },
+  "launch_mode": "instant",
+  "launch_url": "https://trythissoftware.com/launch/rkendel1/v0.diy",
+  "permissions": {
+    "public_launch": true,
+    "stored_configuration": true
+  },
+  "repository_id": "rkendel1/v0.diy",
+  "runtime": "auto",
+  "schema": "trythis.launch/v1",
+  "stable_id": "trythis-744dde1f181afbb0",
+  "topics": []
+}
