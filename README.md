@@ -1,6 +1,7 @@
-```
+
 [![Run with TryThisSoftware](https://trythissoftware.com/badge/rkendel1/v0.diy.svg)](https://trythissoftware.com/launch/rkendel1/v0.diy)
 
+```
 ██╗   ██╗ ██████╗       ██████╗ ██╗██╗   ██╗
 ██║   ██║██╔═████╗      ██╔══██╗██║╚██╗ ██╔╝
 ██║   ██║██║██╔██║█████╗██║  ██║██║ ╚████╔╝ 
